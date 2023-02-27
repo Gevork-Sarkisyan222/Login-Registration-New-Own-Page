@@ -1,0 +1,211 @@
+body{
+    background-image: url(https://newcdn.mowplayer.com/719567640886/2020/11/25/thumbnails/de9u5oqhaiwe4yt7.jpg);
+}
+
+
+
+
+.first-border-reg{
+    position: absolute;
+    border-style: solid;
+    border-color: red;
+
+    border-style:solid;
+    border-width: 4px;
+    border-radius: 30px;
+    border-color: 20px;
+    padding-top: 450px;
+    width: 600px;
+    border-color: red;
+    left: 180px;
+    top: 65px;
+    background-color: transparent;
+    border-color: rgb(184, 184, 184);
+    backdrop-filter: blur(15px);
+} 
+
+
+.create{
+    position: absolute;
+    left: 189px;
+    top: 65px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    color: rgb(255, 255, 255);
+    border-bottom: 1px solid white;
+}
+
+
+.name{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 130px;
+    left: 200px;
+    color: white;
+}
+
+.input-name{
+    position: absolute;
+    top: 170px;
+    left: 200px;
+    outline: none;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid white;
+    color: white;
+}
+
+.lastname-input{
+    position: absolute;
+    top: 170px;
+    left: 440px;
+    outline: none;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid white;
+    color: white;
+}
+
+.lastname{
+    position: absolute;
+    top: 130px;
+    left: 440px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+
+.ph-em{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    top: 206px;
+    left: 200px;
+} 
+
+.email-number-input{
+    position: absolute;
+    outline: none;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid white;
+    width: 310px;
+    color: white;
+    top: 250px;
+    left: 200px;
+}
+
+.age-text{
+    position: absolute;
+    color: white;
+    top: 210px;
+    left: 560px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.number{
+    position: absolute;
+    outline: none;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid white;
+    color: white;
+    top: 250px;
+    left: 560px;
+    width: 70px;
+    
+}
+
+.create-password{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 300px;
+    left: 200px;
+    color: white;
+}
+
+.password{
+    position: absolute;
+    color: white;
+    top: 340px;
+    left: 200px;
+    outline: none;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid white;
+    color: white;
+}
+
+.again-password{
+    position: absolute;
+    top: 300px;
+    left: 440px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.password-again{
+    position: absolute;
+    color: white;
+    top: 340px;
+    left: 440px;
+    outline: none;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid white;
+    color: white;
+}
+
+.onel{
+    position: absolute;
+    color: white;
+    top: 400px;
+    left: 200px;
+}
+
+.twol{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 400px;
+    left: 266px;
+}
+
+.male{
+    position: absolute;
+    color: rgba(158, 158, 158, 0.884);
+    top: 370px;
+    font-size: 13px;
+    left: 205px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.female{
+    position: absolute;
+    color: rgba(201, 201, 201, 0.884);
+    top: 370px;
+    font-size: 13px;
+    left: 270px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.reg-btn{
+    position: absolute;
+    left: 430px;
+    top: 390px;
+    font-size: 18px;
+    width: 250px;
+    height: 35px;
+    border: none;
+    background-color: rgba(56, 56, 255, 0.349);
+    border-radius: 13px;
+    color: rgba(255, 255, 255, 0.541);
+}.reg-btn:hover{
+    background-color: rgba(56, 56, 255, 0.671);
+}
+
+.qr-code{
+    position: absolute;
+    left: 840px;
+    top: 60px;
+}

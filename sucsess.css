@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://newcdn.mowplayer.com/719567640886/2020/11/25/thumbnails/de9u5oqhaiwe4yt7.jpg);
+}
+
+.border{
+    position: absolute;
+    border-style: solid;
+
+    border-style:solid;
+    border-width: 4px;
+    border-radius: 30px;
+    border-color: 20px;
+    padding-top: 200px;
+    width: 700px;
+    left: 340px;
+    top: 65px;
+    background-color: transparent;
+    border-color: rgb(184, 184, 184);
+    backdrop-filter: blur(15px);
+    
+}
+
+
+.sucsess-text{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(18, 255, 18, 0.322);
+    font-size: 25px;
+    top: 90px;
+    left: 390px;
+}
+
+.ok-img{
+    position: absolute;
+    top: 150px;
+    left: 620px;
+}
+
+
+

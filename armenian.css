@@ -1,0 +1,164 @@
+body{
+    background-image: url(https://newcdn.mowplayer.com/719567640886/2020/11/25/thumbnails/de9u5oqhaiwe4yt7.jpg);
+}
+
+.border{
+    position: absolute;
+    border-style: solid;
+    border-color: red;
+
+    border-style:solid;
+    border-width: 4px;
+    border-radius: 30px;
+    border-color: 20px;
+    padding-top: 450px;
+    width: 400px;
+    border-color: red;
+    left: 480px;
+    top: 65px;
+    background-color: transparent;
+    border-color: rgb(184, 184, 184);
+    backdrop-filter: blur(15px);
+}
+
+.login-section>h1{
+    position: absolute;
+    left: 574px;
+    top: 95px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.one{
+    position: absolute;
+    left: 548px;
+    top: 210px;
+    outline: none;
+    border: none;
+    font-size: 22px;
+    background: transparent;
+    color: white;
+    border-bottom: 1px solid white;
+}
+.one-label{
+    position: absolute;
+    left: 548px;
+    top: 187px;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.two{
+    position: absolute;
+    left: 548px;
+    top: 296px;
+    outline: none;
+    font-size: 22px;
+    border: none;
+    background: transparent;
+    color: white;
+    border-bottom: 1px solid white;
+}
+.two-label{
+    position: absolute;
+    left: 548px;
+    top: 274px;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.login-btn{
+    position: absolute;
+    left: 537px;
+    top: 350px;
+    font-size: 18px;
+    width: 300px;
+    height: 35px;
+    border: none;
+    background-color: rgba(56, 56, 255, 0.349);
+    border-radius: 13px;
+    color: rgba(255, 255, 255, 0.541);
+    
+}
+
+.login-btn:hover{
+    background-color: rgba(56, 56, 255, 0.623);
+    cursor: pointer;
+}
+
+.remember-checkbox{
+    position: absolute;
+    left: 620px;
+    top: 393px;
+    cursor: pointer;
+}
+
+.remember-ch-text{
+    position: absolute;
+    left: 645px;
+    top: 383px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: rgba(37, 37, 37, 0.904);
+}
+
+.forgot-section{
+    position: absolute;
+    left: 587px;
+    top: 428px;
+    color: rgba(31, 31, 31, 0.904);
+    outline: none;
+}
+.register{
+    position: absolute;
+    left: 638px;
+    top: 460px;
+    color: rgba(31, 31, 31, 0.904);
+    outline: none;
+}
+
+.email-svg{
+    position: absolute;
+    left: 824px;
+    top: 204px;
+}.email-svg:hover{
+    cursor: pointer;
+}
+
+.password-svg{
+    position: absolute;
+    left: 819px;
+    top: 286px;
+}.password-svg:hover{
+    cursor: pointer;
+}
+
+
+.En{
+    position: absolute;
+    left: 1000px;
+    top: 20px;
+    color: rgba(0, 0, 255, 0.425);
+}
+
+.Ru{
+    position: absolute;
+    left: 1050px;
+    top: 20px;
+    color: rgba(0, 0, 255, 0.425);
+}
+
+.Am{
+    position: absolute;
+    left: 1100px;
+    top: 20px;
+    color: rgba(0, 0, 255, 0.425);
+}
+/* armenia mineee sing song */
+
+.Ge{
+    position: absolute;
+    left: 1150px;
+    top: 20px;
+    color: rgba(0, 0, 255, 0.425);
+}
